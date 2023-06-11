@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  //////////////////Pull From Remote
+  //////Pull From Local
   title = 'Impulse';
 }
