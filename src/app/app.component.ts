@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  //////Pull From Local
+  //////Pull From Local Added on (11-06-2023 18:22)
   //////Pull From Remote Branch Added On (11-06-2023)
   title = 'Impulse';
 }
